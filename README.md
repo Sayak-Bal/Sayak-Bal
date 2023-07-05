@@ -1,7 +1,7 @@
 ![logo](https://github.com/Sayak-Bal/Sayak-Bal/blob/main/Black%20Modern%20Blogger%20YouTube%20Channel%20Art.png)
 <h1 align="center">Hi 👋, I'm Sayak Bal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="C:\Users\SAYAK BAL\Desktop\CEMK\github image.png"></image>
+<img align="right" alt="coding" width="400" src="https://geekflare.com/wp-content/uploads/2022/10/Coding.png">
 >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayak-bal&label=Profile%20views&color=0e75b6&style=flat" alt="sayak-bal" /> </p>
 
